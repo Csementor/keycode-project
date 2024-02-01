@@ -18,7 +18,7 @@ JavaScript (ES6+)
 
 **Getting Started**
 
-1.Clone the repository: git clone https:/Csementor/github.com//show-keycode.git
+1.Clone the repository: git clone https://github.com/Csementor/show-keycode.git
 
 2.Open index.html in your web browser.
 
